@@ -1,5 +1,5 @@
 {
-  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "dawn-mud-70e8",
   "compatibility_date": "2026-10-06",
   "assets": {
