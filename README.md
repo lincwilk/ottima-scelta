@@ -18,3 +18,6 @@ Il progetto sarà collegato a Cloudflare per la pubblicazione online.
 ## Nota
 
 La versione pubblicata in precedenza su Cloudflare (`dawn-mud-70e8`) è considerata una versione di test. La versione di questo repository sarà la versione ufficiale del progetto a partire dalla configurazione del nuovo deploy.
+
+
+Cloudflare Workers Builds: connected to the `main` branch for automatic deployments.
